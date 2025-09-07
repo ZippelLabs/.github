@@ -8,4 +8,4 @@ We are a security R&D team specializing in cryptography. Our mission is to provi
 
 ## Get in Touch
 
-*We’re always excited to collaborate* - whether it’s discussing a new cryptographic idea, building secure software, or security reviewing code for vulnerabilities . Feel free to **star our repositories** if you find them useful, open an issue or pull request to contribute, and reach out if you’d like to work together. **[Contact us](mailto:zippelsec@gmail.com)** – we’d love to hear from you! 💬
+*We’re always excited to collaborate* - whether it’s discussing a new cryptographic idea, building secure software, or security review code for vulnerabilities . Feel free to **star our repositories** if you find them useful, open an issue or pull request to contribute, and reach out if you’d like to work together. **[Contact us](mailto:zippelsec@gmail.com)** – we’d love to hear from you! 💬
