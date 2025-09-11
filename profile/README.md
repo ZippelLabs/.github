@@ -2,7 +2,7 @@
 
 ### **Welcome to ZippelLabs Github** 👋
 
-<img width="800" alt="ZippelLabs-Banner-DarkLogo" src="https://github.com/ZippelLabs/.github/blob/main/banner.png">
+<img width="500" alt="ZippelLabs-Banner-DarkLogo" src="https://github.com/ZippelLabs/.github/blob/main/banner.png">
 
 ---
 
