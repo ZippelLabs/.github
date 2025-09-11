@@ -2,6 +2,11 @@
 
 ### **Welcome to ZippelLabs Github** 👋
 
+<img width="1500" alt="ZippelLabs-Banner-DarkLogo" src="https://github.com/ZippelLabs/.github/blob/main/banner.png">
+
+---
+
+
 We are a security R&D team specializing in cryptography. Our mission is to provide **secure solutions** to modern cryptographic challenges and make systems **secure and future-proof**. We conduct **security audits** for zero-knowledge protocols, cryptographic algorithms, smart contracts, and more – helping projects find vulnerabilities and strengthen their code before deployment.
 
 
