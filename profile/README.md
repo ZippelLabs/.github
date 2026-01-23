@@ -7,8 +7,9 @@
 ---
 
 
-We are a security R&D team specializing in cryptography. Our mission is to provide **secure solutions** to modern cryptographic challenges and make systems **secure and future-proof**. We conduct **security audits** for zero-knowledge protocols, cryptographic algorithms, privacy preserving smart contracts, and more – helping projects find vulnerabilities and strengthen their code before deployment.
-
+- Who we are: ZippelLabs is not just an audit firm, we are security mindset developers of the [ZP1 zkVM](https://github.com/ZippelLabs/ZP1) with external  top-tier Independent auditors to strengthen audits requirements, [zkVMs-bugs project](https://github.com/ZippelLabs/zkVMs-bugs), and [Initiatives for security of privacy preserving protocols-wip](https://github.com/ZippelLabs/privacy-proof-security). We understand the complexity of ZK proofs systems because we build, review, research them daily. 
+- **Track Record**: We have secured $10B+ TVL across all chains which inlcludes $100M+ in privacy preserving projects.And constantly securing protocols.
+- Our Mission: To accelerate the adoption of privacy preserving protocols, we run a Subsidized Security Review Program. We offer deep, manual, line by line security reviews at significantly below-market rates to projects we believe are critical to the ecosystem.
 
 
 ## Get in Touch
